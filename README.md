@@ -10,4 +10,4 @@ Capstone 2  M2DataWrangling-lab
 
 Capstone 3  M3ExploratoryDataAnalysis-lab
 
-Capstone 4  M4
+Capstone 4  M4DataVisualization-lab
